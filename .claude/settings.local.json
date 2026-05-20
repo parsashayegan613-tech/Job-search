@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -rf /home/user/Job-search/.git)",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git checkout *)"
+    ]
+  }
+}
